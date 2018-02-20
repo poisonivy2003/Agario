@@ -1,4 +1,4 @@
-//package agario;
+package agario;
 
 import java.awt.Color;
 import java.awt.Component;
